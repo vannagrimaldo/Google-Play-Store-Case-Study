@@ -1,21 +1,24 @@
 # Google-Play-Store-Case-Study
-Context
+Context: 
+
 Advertising is a type of marketing communication used to promote or sell products or services. Advertising is usually paid by sponsors and viewed through various media such as websites, apps, emails, and other offline communications. Android is the mobile operating system running on Google OS with about 69% of the market share worldwide. The Google Play Store is the Android app store used to install Android Apps.
 
  
 
-Objective
+Objective: 
+
 Zoom Ads is an advertising agency that wants to perform an analysis on the data of the google play store. They need to understand the trend of applications available on the google play store so that they can decide to focus on promoting advertisements on particular applications which are trending in the market and can lead to maximum profit. As a Data Scientist, you are required to gather and analyze detailed information on apps in the Google Play Store in order to provide insights on app features and the current state of the Android app market.
 
  
 
-Guidelines
+Guidelines: 
+
 Perform univariate analysis on the data to better understand the variables at your disposal
 Perform bivariate analysis to better understand the correlation between different variables
 Create visualizations to explore data and extract the insights
  
 
-Data
+Data: 
 App: Application Name
 Category: Category the app belongs to
 Rating: Overall user rating of the app
